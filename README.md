@@ -7,7 +7,7 @@
           WEBSOCKET / SSH / SSL / XRAY
 
 
-<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/myridwan/multi-ws/ipuk/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
+<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/arlanstore/multi-ws/ipuk/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
 
 <p align="center">
